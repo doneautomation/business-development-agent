@@ -1,0 +1,22 @@
+# Copy to config.yaml and fill in. Do not commit config.yaml.
+business:
+  name: "Your Business"
+  owner: "Your Name"
+  currency: "USD"
+
+offers:
+  - name: "Offer A"
+    description: "One-line outcome"
+    price_band: "0-0"
+
+qualification:
+  pursue_threshold: 0   # set after your first 20 scored leads
+  watch_threshold: 0
+
+sources:
+  - job_boards
+  - community_threads
+
+tools:
+  crm: ""        # e.g. Notion, HubSpot
+  scheduler: ""  # e.g. Calendly
