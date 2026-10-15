@@ -29,3 +29,10 @@ An open-source business development skill for small service businesses. It helps
 ## License
 
 MIT. See `LICENSE`.
+
+## Contact
+
+Built and maintained by [Done Automation](https://doneautomation.com).
+
+- Questions or customization help: open a GitHub issue on this repo, or visit [doneautomation.com](https://doneautomation.com).
+- Bug reports and improvements: pull requests are welcome (see `CONTRIBUTING.md`).
