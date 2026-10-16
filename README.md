@@ -4,6 +4,10 @@ An open-source business development skill for small service businesses. It helps
 
 > Status: early structure. Frameworks and templates are placeholders until filled in.
 
+## Dashboard
+
+A one-page view of the team, pipeline, channels and daily rhythm: [open the dashboard](https://doneautomation.github.io/business-development-agent/). The source is `index.html`; edit the `DATA` block at the bottom to update the numbers.
+
 ## What it does
 
 | Stage | Purpose | Folder |
